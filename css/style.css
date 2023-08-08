@@ -374,7 +374,7 @@ a:focus {
   font-weight: bold;
 }
 
-.service_section a {
+.service_section .box {
   display: inline-block;
   cursor: not-allowed;
   padding: 12px 40px;
@@ -388,7 +388,7 @@ a:focus {
   border: none;
 }
 
-.service_section a:hover {
+.service_section box:hover {
   -webkit-transform: translateY(-7px);
   transform: translateY(-7px);
 }
