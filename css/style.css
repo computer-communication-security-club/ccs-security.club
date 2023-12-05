@@ -1018,7 +1018,7 @@ font-weight: bold;
 padding-bottom: 55px;
 }
 
-.newscontent p {
+.newscontent p, .medee-ol {
 text-align: justify;
 font-size: 1.6vw;
 margin-top: -14px;
